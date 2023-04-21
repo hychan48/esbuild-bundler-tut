@@ -33,3 +33,6 @@ npx pkg build.cjs
 pnpm run build:pkg
 ```
 
+# Reddit Building Binaries
+https://www.reddit.com/r/linux/comments/m2g06w/does_anyone_else_hate_building_packages_from/
+
