@@ -1,0 +1,16 @@
+{
+  "name": "esbuild-bundler-tut",
+  "version": "0.0.1",
+  "description": "Binary Bundler Tutorial using ESBuild",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "hychan48",
+  "license": "MIT",
+  "devDependencies": {
+    "esbuild": "^0.17.17",
+    "pkg": "^5.8.1"
+  }
+}
